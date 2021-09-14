@@ -1,5 +1,5 @@
 from googletrans import Translator
-import re
+
 class pair3():
     ru = ''
     en = ''
@@ -19,12 +19,12 @@ def check(x):
     return A
 
 def readFile(name):
-    f = open(name,"r")
+    f = open(name,"r",encoding="utf8")
     dataRead = f.read()
     return check(dataRead)
    
 def Writefile(name,dataWrite):
-    f = open(name, "w")
+    f = open(name, "w", encoding="utf8")
     for x in dataWrite:
         tempst = " |-| "
         st = x.ru +tempst+x.en+tempst+x.vi+'\n'
