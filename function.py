@@ -4,12 +4,25 @@ class pair3():
     ru = ''
     en = ''
     vi = '' 
+def check(x):
+    cur = ''
+    A = []
+    for i in x:
+        if (i!=' '):
+             cur += i 
+        else :
+            if(len(cur)!=0):
+                A.append(cur)
+                cur = ''
+    if(len(cur)!=0):
+        A.append(cur)
+    return A
+
 def readFile(name):
     f = open(name,"r")
     dataRead = f.read()
-    dataReturn = dataRead.split(" ")   
-    return dataReturn
-    
+    return check(dataRead)
+   
 def Writefile(name,dataWrite):
     f = open(name, "w")
     for x in dataWrite:
@@ -29,6 +42,7 @@ def change(x):
     dataout = []
     for Ru in x:
         temp = pair3()
+        print("translating....",Ru)
         temp.ru = Ru
         temp.en = ruToEn(temp.ru)
         temp.vi = enToVi(temp.en)

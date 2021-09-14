@@ -1,8 +1,216 @@
-Введение. |-| Introduction |-| Giới thiệu
-Сортировка |-| Sorting |-| Phân loại
-вставкой. |-| insert. |-| chèn.
+Внешний |-| External |-| Bên ngoài
+вид |-| view |-| quan điểm
+внешность |-| appearance |-| ngoại hình
+Как |-| How |-| Thế nào
+выглядит |-| Looks like |-| Giống như
+человек |-| human |-| Nhân loại
+Он |-| He |-| Anh ta
+выглядит |-| Looks like |-| Giống như
+хорошо |-| OK |-| VÂNG
+плохо |-| poorly |-| kém
+У |-| W. |-| Như
+него |-| His |-| Của anh ấy
 Рост |-| Height |-| Chiều cao
-функций |-| Functions |-| Chức năng
-и |-| and |-| và
-асимптотические |-| Asymptotic |-| Tiệm cận
-обозначения |-| Designations |-| Chỉ định
+Он |-| He |-| Anh ta
+какого |-| Some |-| Một vài
+высокого |-| high |-| cao
+роста |-| Heost |-| Heist.
+Он |-| He |-| Anh ta
+какой |-| which |-| cái mà
+высокий |-| high |-| cao
+Он |-| He |-| Anh ta
+невысокий |-| low |-| Thấp
+он |-| he |-| anh ta
+среднего |-| Medium |-| Trung bình
+роста |-| Heost |-| Heist.
+приземистый |-| squat |-| ngồi xổm.
+он |-| he |-| anh ta
+маленького |-| Little |-| Ít
+роста |-| Heost |-| Heist.
+Лицо |-| Face |-| Đối mặt
+широкое |-| wide |-| rộng
+узкое |-| narrow |-| hẹp
+круглое |-| Round |-| Tròn
+вытянутое |-| elongated |-| kéo dài.
+овальное |-| oval |-| hình trái xoan
+полное |-| Full |-| Đầy
+худое |-| thin |-| gầy
+доброе |-| Kind |-| Tốt bụng
+злое |-| evil |-| tà ác
+улыбчивое |-| smiling |-| mỉm cười
+открытое |-| Open |-| Mở ra
+приятное |-| Pleasy |-| Dễ chịu
+весёлое |-| Cheerful |-| Vui lòng
+радостное |-| joyful |-| Hân hoan
+грустное |-| Sad |-| Buồn
+печальное |-| sad |-| buồn
+веснушчатое |-| Springchant |-| Springchant.
+Глаза |-| Eyes |-| Mắt
+форма, |-| the form, |-| hình thức,
+размер |-| the size |-| kích cỡ
+цвет |-| Colour |-| Màu sắc
+эмоции |-| emotions |-| những cảm xúc
+маленькие |-| Little |-| Ít
+большие, |-| big |-| to lớn
+круглые |-| round |-| vòng
+узкие |-| narrow |-| hẹp
+карие |-| Carie |-| Carie.
+тёмно |-| dark |-| tối tăm
+светло |-| Light |-| Soi rọi
+, |-| , |-| Cái gì
+зелёные, |-| Green |-| Màu xanh lá
+голубые, |-| blue |-| màu xanh dương
+серые |-| Gray |-| xám
+чёрные, |-| black |-| màu đen
+синие |-| blue |-| màu xanh dương
+Взгляд |-| Sight |-| Thị giác
+как |-| how |-| thế nào
+смотрит |-| Watching |-| Xem
+на |-| on |-| trên
+нас |-| US |-| CHÚNG TA
+человек |-| human |-| Nhân loại
+Зрение |-| Vision |-| Thị giác
+качество |-| quality |-| chất lượng
+хорошее |-| Good |-| Tốt
+плохое |-| Bad |-| Tồi tệ
+близорукий |-| myopic |-| cận thị
+дальнозоркий |-| Farcastic |-| Farcastic.
+далеко |-| far |-| xa
+вижу |-| I see |-| tôi hiểu rồi
+глазастый |-| Eyeless |-| Đui
+слепой |-| blind |-| mù
+слеповатый |-| blind |-| mù
+о |-| O |-| Vả lại
+старых |-| old |-| cũ
+людях |-| People |-| Mọi người
+Лоб |-| Forehead |-| Trán
+высокий |-| high |-| cao
+низкий |-| short |-| ngắn
+узкий |-| narrow |-| hẹp
+Нос |-| Nose |-| Mũi
+большой |-| big |-| to lớn
+маленький |-| small |-| nhỏ
+Широкий |-| Wide |-| Rộng
+узкий |-| narrow |-| hẹp
+прямой |-| straight |-| dài
+курносый |-| snub |-| snub.
+длинный |-| long |-| Dài
+нос |-| nose |-| mũi
+любопытный |-| curious |-| tò mò
+Щёки |-| Cheeks |-| Má
+румяные |-| Rudy |-| Rudy.
+бледные |-| Pale |-| Tái nhợt
+Губы |-| Lips |-| Môi
+полные |-| Full |-| Đầy
+узкие |-| narrow |-| hẹp
+тонкие |-| thin |-| gầy
+Волосы |-| Hair |-| Tóc
+длина |-| length |-| chiều dài
+цвет |-| Colour |-| Màu sắc
+вид |-| view |-| quan điểm
+длинные |-| Long |-| Dài
+короткие |-| Short |-| Ngắn
+средней |-| Middle |-| Ở giữa
+длины |-| Length |-| Chiều dài
+светлые |-| Light |-| Soi rọi
+каштановые |-| chestnut |-| hạt dẻ
+тёмные |-| Dark |-| Tối tăm
+чёрные |-| black |-| màu đen
+прямые |-| Straight |-| Dài
+волнистые |-| Wavy |-| Dợn sóng
+кудрявые |-| Kudrya |-| Kudrya.
+У |-| W. |-| Như
+него |-| His |-| Của anh ấy
+светлые |-| Light |-| Soi rọi
+волосы |-| hair |-| tóc
+Он |-| He |-| Anh ta
+блондин |-| blond |-| tóc vàng
+она |-| she |-| bà ấy
+блондинка |-| blonde |-| vàng
+Он |-| He |-| Anh ta
+шатен |-| Shaten |-| Shaten.
+э |-| NS |-| NS
+она |-| she |-| bà ấy
+шатенка |-| Shadhenka |-| Shadhenka.
+э |-| NS |-| NS
+Он |-| He |-| Anh ta
+брюнет |-| Brunette |-| Brunette.
+э |-| NS |-| NS
+она |-| she |-| bà ấy
+брюнетка |-| brunette |-| brunette.
+э |-| NS |-| NS
+Он |-| He |-| Anh ta
+седой |-| gray |-| xám
+он |-| he |-| anh ta
+рыжий |-| ginger |-| gừng
+У |-| W. |-| Như
+него |-| His |-| Của anh ấy
+светлые |-| Light |-| Soi rọi
+волосы |-| hair |-| tóc
+он |-| he |-| anh ta
+светловолосый |-| blonde |-| vàng
+Фигура |-| Figure |-| Nhân vật
+худой |-| thin |-| gầy
+стройный |-| slim |-| mảnh mai
+полный |-| full |-| đầy
+толстый |-| thick |-| đặc
+Бережливый |-| Thrifty |-| Thrifty.
+скупой |-| stingy |-| keo kiệt
+жадный |-| greedy |-| tham
+тактичный |-| tactful |-| khéo léo.
+вежливый |-| polite |-| lịch thiệp
+бестактный |-| tactless |-| không khéo léo
+грубый |-| rude |-| thô lỗ
+Мужественный |-| Courageous |-| Can đảm
+смелый |-| brave |-| can đảm
+храбрый |-| brave |-| can đảm
+отважный |-| brave |-| can đảm
+Эмоции |-| Emotions |-| Những cảm xúc
+мультфильм |-| cartoon |-| phim hoạt hình
+«Просто |-| "Just |-| "Chỉ cần
+так» |-| So" |-| Vì thế"
+Испытывать |-| Test |-| Thử nghiệm
+испытать |-| experience |-| kinh nghiệm
+что |-| what |-| Cái gì
+Чувствовать |-| Feel |-| Cảm xúc
+почувствовать |-| feel |-| cảm xúc
+что |-| what |-| Cái gì
+Ощущать |-| Feel |-| Cảm xúc
+ощутить |-| feel |-| cảm xúc
+что |-| what |-| Cái gì
+Мальчик |-| Boy |-| Con trai
+счастье |-| happiness |-| niềm hạnh phúc
+счастливый |-| happy |-| sung sướng
+радость |-| joy |-| vui sướng
+радостный |-| glad |-| vui vẻ
+веселье |-| fun |-| niềm vui
+весёлый |-| happy |-| sung sướng
+Осёл |-| A donkey |-| Một con lừa
+ослик |-| OSLIK |-| Oslik.
+грусть |-| sadness |-| sự sầu nảo
+грустныйскука |-| Suarland |-| Sugarland.
+скучный |-| boring |-| nhàm chán
+ему |-| his |-| của anh ấy
+скучно |-| boring |-| nhàm chán
+удивление |-| astonishment |-| sự kinh ngạc
+удивлённый |-| surprised |-| ngạc nhiên
+изумление |-| amazement |-| kinh ngạc
+изумлённый |-| amazed |-| Kinh ngạc
+растерянность |-| confusion |-| sự hoang mang
+растерянный |-| confused |-| bối rối
+Щенок |-| Puppy |-| Cún yêu
+испуг |-| Fean |-| Fean.
+испуганный |-| frightened |-| sợ sệt
+он |-| he |-| anh ta
+боится |-| fears |-| sợ hãi
+ему |-| his |-| của anh ấy
+страшно |-| fearfully |-| sợ hãi
+радоваться |-| rejoice |-| hân hoan
+обрадоваться |-| appeal |-| bắt mắt
+Медвежонок |-| Medshound |-| Malshound.
+усталость |-| fatigue |-| sự mệt mỏi
+усталый |-| tired |-| mệt
+жадный |-| greedy |-| tham
+потом |-| after |-| sau
+щедрый |-| generous |-| rộng lượng
+Белка |-| Squirrel |-| SQUIRREL.
